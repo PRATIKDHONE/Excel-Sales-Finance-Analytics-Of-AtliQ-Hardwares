@@ -20,9 +20,9 @@
 
 - **Project objective:** 
 
-    **1.** Create Profit and Loss (P&L) reports by _[Profit & Loss Report By Fiscal Year](https://github.com/PRATIKDHONE/Excel-Sales-Finance-Analytics-Of-AtliQ-Hardwares/blob/main/P%26L%20Statement%20by%20Fiscal%20Year.pdf)_ & _[Profit & Loss Report By Months] (https://github.com/PRATIKDHONE/Excel-Sales-Finance-Analytics-Of-AtliQ-Hardwares/blob/main/P%26L%20Statement%20by%20Months.pdf)
+    **1.** Create Profit and Loss (P&L) reports by _[Profit & Loss Report By Fiscal Year](https://github.com/PRATIKDHONE/Excel-Sales-Finance-Analytics-Of-AtliQ-Hardwares/blob/main/P%26L%20Statement%20by%20Fiscal%20Year.pdf)_ & _[Profit & Loss Report By Months](https://github.com/PRATIKDHONE/Excel-Sales-Finance-Analytics-Of-AtliQ-Hardwares/blob/main/P%26L%20Statement%20by%20Months.pdf)
 
-   **2.** Create Profit and Loss (P&L) reports by _[Profit & Loss Report By Markets] (https://github.com/PRATIKDHONE/Excel-Sales-Finance-Analytics-Of-AtliQ-Hardwares/blob/main/P%26L%20Statement%20by%20Markets.pdf)
+   **2.** Create Profit and Loss (P&L) reports by _[Profit & Loss Report By Markets](https://github.com/PRATIKDHONE/Excel-Sales-Finance-Analytics-Of-AtliQ-Hardwares/blob/main/P%26L%20Statement%20by%20Markets.pdf)
 
 - **Purpose of sales analytics:** Evaluation of financial performance, support decision-making, and facilitate communication with stakeholders.
 
@@ -37,7 +37,7 @@
  **3.**	Ability to derive fiscal months and quarters.
  **4.**	Establishing data model relationships with Power Pivot.
  **5.**	Proficiency in incorporating supplementary data into an existing data model.
- **6.**	Utilizing DAX to create calculated columns.
+ 	Utilizing DAX to create calculated columns.
 
 ## Soft Skills:
  **1.**	Refined understanding of Sales & Finance Reports
